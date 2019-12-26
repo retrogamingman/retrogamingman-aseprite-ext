@@ -1,0 +1,22 @@
+{
+  "name": "retrogamingman-palettes",
+  "displayName": "RetroGamingMan Palettes",
+  "description": "Palettes created by the RetroGamingMan",
+  "version": "1.0",
+  "author": {
+    "name": "RetroGamingMan",
+    "url": "https://twitter.com/retrogamingmanx"
+  },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      {
+        "id": "AGI-EGA",
+        "path": "./agi-egaPalette.png"
+      }
+    ]
+  }
+}
